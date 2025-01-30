@@ -1,7 +1,10 @@
 <h1 align="center"><b>Bonsoir, je suis Mohamed Ouni</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Bienvenue+sur+mon+profil!;Je+suis+Mohamed+Ouni+❤;Développeur+Web+et+étudiant+en+génie+informatique;Passionné+par+les+nouvelles+technologies+🚀;Toujours+en+quête+de+nouveaux+apprentissages!"></a>
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=700&height=100&lines=Bienvenue+sur+mon+profil!;Je+suis+Mohamed+Ouni+❤;Développeur+Web+et+étudiant+en+génie+informatique;Passionné+par+les+nouvelles+technologies+🚀;Toujours+en+quête+de+nouveaux+apprentissages!&duration=2000">
+</a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
