@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=700&height=100&lines=Bienvenue+sur+mon+profil!;Je+suis+Mohamed+Ouni+❤;Développeur+Web+et+étudiant+en+génie+informatique;Passionné+par+les+nouvelles+technologies+🚀;Toujours+en+quête+de+nouveaux+apprentissages!&duration=2000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=700&height=100&lines=Bienvenue+sur+mon+profil!;Je+suis+Mohamed+Ouni+❤;Développeur+Web+et+étudiant+en+génie+informatique;Passionné+par+les+nouvelles+technologies+🚀;Toujours+en+quête+de+nouveaux+apprentissages!&duration=4000">
 </a>
 
 </p>
