@@ -11,7 +11,7 @@
 
 
 ## **À propos de moi**
-👋 Je suis **Mohamed Ouni**, élève ingénieur en informatique à l'**École Polytechnique de Sousse** en Tunisie 🇹🇳 .  
+👋 Je suis **Mohamed Ouni**, diplômé en tant qu’ingénieur en Informatique de l'**École Polytechnique de Sousse** en Tunisie 🇹🇳 .  
 💻 Passionné par le **Développement WEB**, j’aime explorer de nouvelles technologies et relever des défis techniques.  
 🎵 En dehors du code, j’aime **écouter de la musique, regarder des films et séries, et partager des moments avec mes amis**.  
 ⚽🏀🏐🎾 Passionné de **sport**, mais attention, mes compétences sportives sont... légèrement **buguées** ! 😜  
@@ -45,6 +45,7 @@
 ## 🏆 Défis et Compétitions Gagnés  
 
 🥇 **2 Médailles d'or** - Nuit de l'Intelligence Artificielle 🧠✨  
+🥇 **Médaille d'or** - TWISE NIGHT CHALLENGE 2025🧠✨  
 🥉 **Médaille de bronze** - Nuit de l'Info 🖥️🌙  
 🎖 **IEEEXtreme 17.0** - Participation à la prestigieuse compétition de programmation internationale IEEE.  
 
